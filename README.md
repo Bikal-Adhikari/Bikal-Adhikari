@@ -7,11 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikal-adhikari" alt="bikal-adhikari" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bikaladhikari6" target="blank"><img src="https://img.shields.io/twitter/follow/bikaladhikari6?logo=twitter&style=for-the-badge" alt="bikaladhikari6" /></a> </p>
 
-- 🌱 I’m currently learning **React, Nodejs, NextJs, JavaScript, TypeScript**
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, JavaScript, TypeScript**
 
 - 📫 How to reach me **bikaladhikari5@gmail.com**
 
