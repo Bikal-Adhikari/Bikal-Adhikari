@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikal-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="bikal-adhikari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikal-adhikari" alt="bikal-adhikari" /></a> </p>
+
 
 
 - 💬 Ask me about **React, JavaScript, TypeScript**
